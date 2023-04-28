@@ -7,7 +7,7 @@
     <img src="./assets/logo/logo_main_korean.png" alt="Logo" width="300">
   </a>
 
-  <h3 align="center">Automobile Diagnostic Application /w OBD</h3>
+  <h3 align="center">OBD2를 활용하여 자동차 정보를 받아오는 프로젝트</h3>
 
   <p align="center">
     Project from 1ot of 42Seoul
