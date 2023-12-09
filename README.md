@@ -31,7 +31,9 @@
 
 ## Brochure
 ---
-[Korean ( Link to Google Drive )](https://docs.google.com/document/d/1c8JLn1_GbQ3_nuu-5PcHmePW4V42cGiv/edit?usp=sharing&ouid=113150361165067684964&rtpof=true&sd=true)
+
+[[22년 디바이스마트]차다.pdf](https://github.com/jae-hwan-kim/Chada_OBD2Application/files/13622544/22.pdf)
+<!-- [Korean ( Link to Google Drive )](https://docs.google.com/document/d/1c8JLn1_GbQ3_nuu-5PcHmePW4V42cGiv/edit?usp=sharing&ouid=113150361165067684964&rtpof=true&sd=true)-->
 
 <br />
 
